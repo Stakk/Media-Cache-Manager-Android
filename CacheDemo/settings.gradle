@@ -1,1 +1,1 @@
-include ':app', ':mediacache'
+include ':app', ':media-cache'

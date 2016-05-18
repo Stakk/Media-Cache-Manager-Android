@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CacheDemo.iml" filepath="$PROJECT_DIR$/CacheDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mediacache/mediacache.iml" filepath="$PROJECT_DIR$/mediacache/mediacache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media-cache/mediacache.iml" filepath="$PROJECT_DIR$/media-cache/mediacache.iml" />
     </modules>
   </component>
 </project>

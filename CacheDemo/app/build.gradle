@@ -28,5 +28,5 @@ dependencies {
     compile 'com.google.code.gson:gson:2.6.2'
     compile 'com.felipecsl:gifimageview:2.0.0'
     compile 'pl.droidsonroids.gif:android-gif-drawable:1.1.15'
-    compile project(path: ':mediacache')
+    compile project(path: ':media-cache')
 }
